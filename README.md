@@ -3,6 +3,8 @@ Team Members
 2. Prerna Singh
 3. Roshan Raj
 
+Project Description : A website catering to student needs through a Marketplace, Lost and Found, Feedback system, Study Material repository, Emergency Contacts, and Alumni Networking, aimed at enhancing campus life and fostering community engagement.
+
 This is our Course work project where we have to create a software project and were free to choose anything.
 
 Q. Why do we choose this?
